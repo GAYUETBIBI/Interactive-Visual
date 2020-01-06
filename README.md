@@ -1,8 +1,13 @@
 # Interactive-Visual
 
 # 癌症带来的全球疾病负担
-
 * pythonanywhere的链接入口：[http://xintaolee.pythonanywhere.com/](http://xintaolee.pythonanywhere.com/)
+* pages页面：[http://yoga23.gitee.io/iv-report/](http://yoga23.gitee.io/iv-report/)
+* 合作成员：18李鑫桃、18黄智毅、17曾嘉悦
+
+### 数据来源
+* [世界数据](https://ourworldindata.org/)
+* [全球卫生数据交换](http://ghdx.healthdata.org/)
 
 ### 项目背景
 癌症，很多人将其视为绝症，谈之色变。它是导致死亡的主要原因之一，每年有近一千万人死于癌症。对于我们来说，癌症也许比较陌生，又或许它曾经带走了我们亲人朋友的生命。癌症是一个重大的公共卫生负担和经济问题。2018年有1810万癌症新发病例，有960万人死于癌症；平均每4名男性中有1名、每5名女性中有1名会患上癌症；平均每8名男性中有1名，每11名女性中有1名会死于癌症。此外，2018年有4380万人在过去5年内被诊断为癌症。
